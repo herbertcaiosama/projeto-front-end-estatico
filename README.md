@@ -1,5 +1,7 @@
 # Projeto Vem Ser Tech - Ada/iFood - Projeto final do módulo estático
 
+- [Deployment](https://herbertcaiosama.github.io/projeto-front-end-estatico/)
+
 ## Desenvolvimento de uma proposta de site para o Ifood.
 
 Neste projeto final, você ou seu grupo, como participantes da turma #VemSerTech, que é uma parceria entre o iFood e a Ada, terão a oportunidade de aplicar todo o conhecimento adquirido em HTML e CSS para desenvolver uma proposta inovadora de website para o iFood, uma das principais plataformas de entrega de comida online. Sua missão é apresentar uma visão criativa e aprimorada para a renovação do iFood por meio deste projeto de website.
